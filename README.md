@@ -61,3 +61,30 @@
 |quotient| 商 |
 |remainder| 余数 |
 | | |
+|Add/plus | 加 |
+|subtract | 减 |
+|Multiply / times | 乘 |
+|divide | 除 |
+|divisible | 可被整除的 |
+|divided evenly | 被整除 |
+|dividend | 被除数，红利 |
+|factorial | 阶乘 |
+|power | 乘方 |
+|radical /root sign | 根号 |
+|decimal fraction | 纯小数 |
+|infinite decimal | 无穷小数 |
+|recurring decimal | 循环小数 |
+|proper fraction | 真分数 |
+|improper fraction | 假分数 |
+|mixed number | 带分数 |
+|vulgar /common fraction | 普通分数 |
+|simple fraction | 简分数 |
+|complex fraction | 繁分数 |
+|numerator | 分子 |
+|denominator | 分母 |
+|common denominator | 公分母 |
+|quarter | 四分之一 |
+|ordinary /decimal scale | 十进制 |
+|tens 十位 , units | 个位 |
+|tenths unit | 十分位 |
+| | |
